@@ -23,8 +23,8 @@ Sub FillHistoricalGray()
     Dim ci   As Long
 
     ' ---- Color constants -------------------------------------------------------
-    ' Historical gray: RGB(217, 217, 217) - Excel built-in "Gray 25%"
-    Const HISTORICAL_GRAY As Long = 14277081
+    ' Historical gray: RGB(242, 242, 242) - Excel built-in "Gray 10%"
+    Const HISTORICAL_GRAY As Long = 15921906
     ' White: RGB(255, 255, 255)
     Const WHITE_COLOR     As Long = 16777215
     ' ---------------------------------------------------------------------------
